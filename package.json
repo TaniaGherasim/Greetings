@@ -1,0 +1,30 @@
+{
+  "name": "lab-10-greetings",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jasmine": "^4.3.1",
+    "jasmine-core": "^4.5.0",
+    "karma": "^6.4.1",
+    "karma-chrome-launcher": "^3.1.1",
+    "karma-jasmine": "^5.1.0",
+    "karma-webpack": "^5.0.0",
+    "ts-loader": "^9.4.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.4",
+    "webpack": "^5.75.0",
+    "webpack-dev-server": "^4.11.1"
+  },
+  "dependencies": {
+    "@types/jest": "^29.2.4",
+    "jest": "^29.3.1",
+    "ts-jest": "^29.0.3"
+  }
+}
